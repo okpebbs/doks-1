@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Pricing"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/help/pricing/"
   weight = 10
 
 [[main]]
